@@ -1,2 +1,7 @@
 # hello-world
-this is my hello-world repository.
+
+HOHOHO!
+I will carry you!
+hello world~
+
+WRZ~
